@@ -2,9 +2,9 @@ from frappe import _
 
 app_name = "construct_erpnext"
 app_title = "Construct ERPNext"
-app_publisher = "Sovereign IT Services"
+app_publisher = "Sovereign Technology"
 app_description = "Construction ERP portal for ERPNext v16 - replicating o4bi.com features"
-app_email = "git@sovit.xyz"
+app_email = "services@sovtech.pro"
 app_license = "AGPL-3.0"
 required_apps = ["frappe", "erpnext", "hrms"]
 

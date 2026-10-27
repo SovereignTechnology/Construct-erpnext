@@ -1,4 +1,4 @@
-# Copyright (c) 2026, SovIT and contributors
+# Copyright (c) 2026, Sovereign Technology S.A.S. de C.V. and contributors
 # For license information, please see license.txt
 
 import frappe

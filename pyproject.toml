@@ -1,7 +1,7 @@
 [project]
 name = "construct_erpnext"
 authors = [
-    { name = "Sovereign IT Services", email = "git@sovit.xyz" }
+    { name = "Sovereign Technology", email = "services@sovtech.pro" }
 ]
 description = "Construction ERP portal for ERPNext v16"
 requires-python = ">=3.10"

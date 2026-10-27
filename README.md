@@ -321,7 +321,7 @@ setup_el_salvador_payroll("My Company Name")
 ### Installation
 
 ```bash
-bench get-app https://github.com/sovITxyz/Construct-erpnext.git
+bench get-app https://github.com/SovereignTechnology/Construct-erpnext.git
 bench --site your-site install-app construct_erpnext
 ```
 
